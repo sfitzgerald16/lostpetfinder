@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'phonenumber_field',
-    'lostpetfinder.pets',
+    'rest_framework',
     'lostpetfinder.account',
 ]
 
